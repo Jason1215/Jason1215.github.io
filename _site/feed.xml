@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>黎跃春区块链博客</title>
-    <description>黎跃春，江湖人称春哥，孔壹学院、链乎创始人 &amp; CEO，全球区块链职业教育布道师，通信和信息技术培养工程区块链高级授课专家。</description>
+    <title>老白区块链博客</title>
+    <description>记录从区块链小白到老鸟的成长之路。</description>
     <link>http://liyuechun.org/</link>
     <atom:link href="http://liyuechun.org/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Thu, 25 Jan 2018 11:02:20 +0800</pubDate>
     <lastBuildDate>Thu, 25 Jan 2018 11:02:20 +0800</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
-    
+
       <item>
         <title>【李程】区块链演进及跨域安全解决方案</title>
         <description>&lt;blockquote&gt;
@@ -123,11 +123,11 @@
         <pubDate>Sat, 20 Jan 2018 00:00:00 +0800</pubDate>
         <link>http://liyuechun.org/2018/01/20/blockchain-security/</link>
         <guid isPermaLink="true">http://liyuechun.org/2018/01/20/blockchain-security/</guid>
-        
+
         <category>区块链安全</category>
-        
-        
+
+
       </item>
-    
+
   </channel>
 </rss>
